@@ -1,0 +1,7 @@
+# Ignore all files in the voice_segments directory
+voice_segments/*
+# ignore venv or virtual environment directories
+.venv/
+__pycache__/
+
+
